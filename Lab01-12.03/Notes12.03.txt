@@ -1,0 +1,2 @@
+Drag rallenta posiion
+Angular drag rallenta rotation
